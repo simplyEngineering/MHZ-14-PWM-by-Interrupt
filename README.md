@@ -10,5 +10,3 @@ The ppm calculation is that supplied by the device manufacturer:
 
 This formula is for a device with a 0 - 5000ppm range.  For a 0 - 2000ppm device the 5000 multiplier in the numerator would be changed to 2000.
 
-For those with no or little experience with interrupt driven systems a fuller explanation is provide in the commented code.  
-
