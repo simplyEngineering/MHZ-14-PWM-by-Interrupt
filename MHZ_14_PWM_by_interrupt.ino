@@ -1,4 +1,7 @@
 /*
+
+Copyright 2020 Stuart A Spray C.Eng. MIEE   -   'simplyEngineering'
+
 This Arduino sketch by simplyEngineering offers a simple, code-efficient, 
 accurate and reliable means of reading the PWM output of the MHZ-14 CO2 
 sensor. It avoids time wasting delay() and polling loops by using the 
